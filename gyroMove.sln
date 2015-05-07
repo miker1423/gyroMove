@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gyroMove", "gyroMove\gyroMove\gyroMove.csproj", "{7EAE480F-CFBC-4306-A64B-D5579FB2E2E3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "gyroMoveContent", "gyroMove\gyroMoveContent\gyroMoveContent.contentproj", "{30E9A544-E897-48B9-8AB5-99CC91E42687}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://miguelpgarcia.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = gyroMove\\gyroMove\\gyroMove.csproj
+		SccProjectName1 = gyroMove/gyroMove
+		SccLocalPath1 = gyroMove\\gyroMove
+		SccProjectUniqueName2 = gyroMove\\gyroMoveContent\\gyroMoveContent.contentproj
+		SccProjectName2 = gyroMove/gyroMoveContent
+		SccLocalPath2 = gyroMove\\gyroMoveContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAE480F-CFBC-4306-A64B-D5579FB2E2E3}.Debug|x86.ActiveCfg = Debug|x86
+		{7EAE480F-CFBC-4306-A64B-D5579FB2E2E3}.Debug|x86.Build.0 = Debug|x86
+		{7EAE480F-CFBC-4306-A64B-D5579FB2E2E3}.Release|x86.ActiveCfg = Release|x86
+		{7EAE480F-CFBC-4306-A64B-D5579FB2E2E3}.Release|x86.Build.0 = Release|x86
+		{30E9A544-E897-48B9-8AB5-99CC91E42687}.Debug|x86.ActiveCfg = Debug|x86
+		{30E9A544-E897-48B9-8AB5-99CC91E42687}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
